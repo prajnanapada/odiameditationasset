@@ -1,5 +1,13 @@
 [
     {
+        "appVersion":"0.0.8",
+        "title": "New Updates",
+        "message": "New updates to this app is available, please update your app for more features.",
+        "imageUrl": "",
+        "url": "https://play.google.com/store/apps/details?id=com.universallistener.odiameditation",
+        "youtubePromoUrl": ""
+    },
+    {
         "title": "What is Meditation?",
         "message": "Meditation is nothingness.",
         "imageUrl": "",
