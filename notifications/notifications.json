@@ -1,31 +1,9 @@
 [
     {
-        "appVersion":"0.0.8",
-        "title": "New Updates",
-        "message": "New updates to this app is available, please update your app for more features.",
-        "imageUrl": "",
-        "appUpdateurl": "https://play.google.com/store/apps/details?id=com.universallistener.odiameditation",
-        "youtubePromoUrl": ""
-    },
-    {
-        "title": "What is Meditation?",
-        "message": "Meditation is nothingness.",
-        "imageUrl": "",
+        "title": "ଆପଣ ଜାଣିଛନ୍ତି କି ?",
+        "message": "ଭଗବାନ ଶ୍ରୀକୃଷ୍ଣ ନିଜେ ଭଗବଦ ଗୀତାର ଷଷ୍ଠ ଅଧ୍ୟାୟରେ ଧ୍ୟାନ ଯୋଗର ମହତ୍ତ୍ୱ ବର୍ଣ୍ଣନା କରିଛନ୍ତି ବିଶ୍ୱର ଅଧିକାଂଶ ପ୍ରଭାବଶାଳୀ ବ୍ୟକ୍ତି , ବୈଜ୍ଞାନିକ, ଶିଳ୍ପପତି ଆଦି ବ୍ୟକ୍ତି ଦୈନିକ ଧ୍ୟାନ କରନ୍ତି. ଅଧିକାଂଶ ଲୋକ ଧ୍ୟାନ ବଳରେ ମଦ, ସିଗାରେଟ ଭଳି ନିଶା ଦ୍ରବ୍ୟର ବର୍ଜନ କରିଛନ୍ତି. ଦୈନିକ ଧ୍ୟାନ କରୁଥିବା ବ୍ୟକ୍ତି ଅପେକ୍ଷାକୃତ କମ୍ ଶାରୀରିକ ଓ ମାନସିକ ରୋଗର ଶିକାର ହୁଅନ୍ତି |",
+        "imageUrl": "https://raw.githubusercontent.com/universallistener/odiameditationasset/master/notifications/lordkrishnameditating.jpg",
         "url": "",
-        "youtubePromoUrl": ""
-    },
-    {
-        "title": "What is Sun Meditation?",
-        "message": "Sun Meditation",
-        "imageUrl": "https://image.shutterstock.com/image-photo/stars-sky-above-wild-nature-600w-1536253844.jpg",
-        "url": "",
-        "youtubePromoUrl": ""
-    },
-    {
-        "title": "What is Moon Meditation?",
-        "message": "Moon Meditation",
-        "imageUrl": "https://image.shutterstock.com/image-photo/stars-sky-above-wild-nature-600w-1536253844.jpg",
-        "url": "http://localhost:8100/home/23",
         "youtubePromoUrl": ""
     }
 ]
