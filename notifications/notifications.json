@@ -17,8 +17,15 @@
     {
         "title": "What is Sun Meditation?",
         "message": "Sun Meditation",
-        "imageUrl": "",
+        "imageUrl": "https://image.shutterstock.com/image-photo/stars-sky-above-wild-nature-600w-1536253844.jpg",
         "url": "",
+        "youtubePromoUrl": ""
+    },
+    {
+        "title": "What is Moon Meditation?",
+        "message": "Moon Meditation",
+        "imageUrl": "https://image.shutterstock.com/image-photo/stars-sky-above-wild-nature-600w-1536253844.jpg",
+        "url": "http://localhost:8100/home/23",
         "youtubePromoUrl": ""
     }
 ]
