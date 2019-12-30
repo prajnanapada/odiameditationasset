@@ -2,17 +2,9 @@
     {
         "title": "What is Meditation?",
         "message": "Meditation is nothingness.",
-        "imageUrl": "",
+        "imageUrl": "https://raw.githubusercontent.com/universallistener/odiameditationasset/master/promo/whatismeditation.jpg",
         "url": "",
-        "audioUrl": "https://raw.githubusercontent.com/universallistener/odiameditationasset/master/mantra_1.mp3",
-        "youtubePromoUrl": "https://www.youtube.com/embed/zrSrCYbDavQ"
-    },
-    {
-        "title": "What is Sun Meditation?",
-        "message": "Sun Meditation",
-        "imageUrl": "",
-        "url": "",
-        "audioUrl": "https://raw.githubusercontent.com/universallistener/odiameditationasset/master/mantra_2.mp3",
-        "youtubePromoUrl": "https://www.youtube.com/embed/-0rlTgnHKYc"
+        "audioUrl": "https://raw.githubusercontent.com/universallistener/odiameditationasset/master/promo/whatismeditation.mp3",
+        "youtubePromoUrl": ""
     }
 ]
